@@ -2,7 +2,7 @@ import streamlit as st
 import re
 
 # Page Config
-st.set_page_config(page_title="Huzaifa's Calculator", layout="centered")
+st.set_page_config(page_title="Mouse_Based Calculator", layout="centered")
 
 # Custom CSS
 st.markdown("""
@@ -34,7 +34,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("""
-    <h1 style="text-align: center; color: #333333;">Hello, I am Huzaifa <br>Welcome to my Calculator</h1>
+    <h1 style="text-align: center; color: brown;">You are Welcome <br></h1>
 """, unsafe_allow_html=True)
 
 # -------------------- Core Logic --------------------
